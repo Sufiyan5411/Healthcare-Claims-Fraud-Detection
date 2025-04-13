@@ -31,19 +31,19 @@ We defined the problem as two tasks:
 
 ### 1. 📉 Histogram: Log-Transformed Total Reimbursement
 Most providers receive low reimbursements. A few outliers show extremely high values.
-![Histogram](visuals/histogram_total_reimbursement.png)
+![Histogram](histogram_total_reimbursement.png)
 
 ---
 
 ### 2. 🔥 Correlation Matrix
 Claims for testing, treatment, and vaccines are moderately correlated with each other and the total reimbursement.
-![Correlation Matrix](visuals/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ---
 
 ### 3. 🗺️ Reimbursement by State (Top 10 States)
 Clear regional disparities, with some states showing outlier reimbursements.
-![Boxplot by State](visuals/state_reimbursement_boxplot.png)
+![Boxplot by State](state_reimbursement_boxplot.png)
 
 ---
 
